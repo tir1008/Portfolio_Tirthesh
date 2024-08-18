@@ -1,0 +1,19 @@
+npm create vite@latest ./ -- --template react
+
+npm install -D tailwindcss
+
+npx tailwindcss init
+
+npm i --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
+
+npm i --legacy-peer-deps -D postcss autoprefixer
+
+npx tailwindcss init -p
+
+npm i --legacy-peer-deps three
+
+npm install react-tilt react react-dom
+
+npm i react-parallax-tilt
+
+start :- npm run dev
